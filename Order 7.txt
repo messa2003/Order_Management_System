@@ -1,0 +1,5 @@
+Wed May 22 10:34:50 EEST 2024
+Client: Radu Mesaros
+Product: Conserva_Ton Nixe Price per unit 7.5
+Quantity: 2
+Total Price: 15.0

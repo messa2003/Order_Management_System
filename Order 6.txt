@@ -1,0 +1,5 @@
+Wed May 22 10:22:55 EEST 2024
+Client: Radu Mesaros
+Product: Rosii Bio Price per unit 2.2
+Quantity: 6
+Total Price: 13.200000000000001
